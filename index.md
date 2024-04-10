@@ -11,3 +11,5 @@ int main(int argc, int **argv) {
   return 0;
 }
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Create 1 repo 💻
